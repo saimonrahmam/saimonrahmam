@@ -21,7 +21,7 @@ ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 (__🐝𝘚𝘈𝘐𝘔𝘖𝘕🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
-<h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
+<h1 align="center">Hi 👋, I'm 𝗦𝗔𝗜𝗠𝗢𝗡</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝘈𝘒✘47 𝐄𝐌𝐑𝐀𝐍 </h3>
 ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
