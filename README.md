@@ -22,11 +22,11 @@ ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
 <h1 align="center">Hi 👋, I'm 𝗦𝗔𝗜𝗠𝗢𝗡</h1>
-<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝘈𝘒✘47 𝐄𝐌𝐑𝐀𝐍 </h3>
+<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝘈𝘒✘47 𝗦𝗔𝗜𝗠𝗢𝗡 </h3>
 ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=𝐄𝐌𝐑𝐀𝐍-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="𝐄𝐌𝐑𝐀𝐍-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=𝗦𝗔𝗜𝗠𝗢𝗡-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="𝐄𝐌𝐑𝐀𝐍-pmishra" /> </p>
 
 - 👨‍💻 All of my 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴-𝑪𝑨𝑳𝑳-𝑩𝑶𝑿 are available at [https://t.me/AK-47AK-47SAIMON0011223311cyber99/simplified_learner](https://t.me/AK-47AK-47SAIMON0011223311cyber99)
 ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
@@ -34,7 +34,7 @@ ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/𝐄𝐌𝐑𝐀𝐍" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝐄𝐌𝐑𝐀𝐍" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/𝗦𝗔𝗜𝗠𝗢𝗡" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝐄𝐌𝐑𝐀𝐍" height="30" width="40" /></a>
 <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
@@ -45,11 +45,11 @@ ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=𝐄𝐌𝐑𝐀𝐍-pmishra&show_icons=true&locale=en&layout=compact" alt="𝐄𝐌𝐑𝐀𝐍-pmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=𝐄𝐌𝐑𝐀𝐍-pmishra&show_icons=true&locale=en&layout=compact" alt="𝗦𝗔𝗜𝗠𝗢𝗡-pmishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=𝐄𝐌𝐑𝐀𝐍-pmishra&show_icons=true&locale=en" alt="𝐄𝐌𝐑𝐀𝐍-pmishra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=𝐄𝐌𝐑𝐀𝐍-pmishra&show_icons=true&locale=en" alt="𝗦𝗔𝗜𝗠𝗢𝗡-pmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=𝐄𝐌𝐑𝐀𝐍-pmishra&" alt="𝐄𝐌𝐑𝐀𝐍-pmishra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=𝐄𝐌𝐑𝐀𝐍-pmishra&" alt="𝗦𝗔𝗜𝗠𝗢𝗡-pmishra" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -168,4 +168,3 @@ ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+AK-47-SAIMON+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+AK-47-SAIMON+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 <!-- Statistics -->
-
