@@ -20,7 +20,7 @@ ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 (__🐝𝘚𝘈𝘐𝘔𝘖𝘕🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-(__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
+(__✏️𝗦𝗔𝗜𝗠𝗢𝗡✏️__)
 <h1 align="center">Hi 👋, I'm 𝗦𝗔𝗜𝗠𝗢𝗡</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝘈𝘒✘47 𝗦𝗔𝗜𝗠𝗢𝗡 </h3>
 ___🦋(𝘚𝘈𝘐𝘔𝘖𝘕)🦋___
